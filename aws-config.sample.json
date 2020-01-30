@@ -1,0 +1,6 @@
+{
+    "ClientId": "YOUR_CLIENT_ID",
+    "UserPoolId": "YOUR_USER_POOL_ID",
+    "Username": "YOUR_USER_NAME_OR_EMAIL",
+    "Password": "YOUR_PASSWORD"
+}
